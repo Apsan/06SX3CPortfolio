@@ -1,0 +1,11 @@
+#FCD232 - orangeyellow
+#C1FC32 - yellowishgreen
+#FC6D32 - pinkish red
+
+
+#5298D2 - blue
+#5258D2 - royal purple
+#52D2CC - cyan
+
+#b7bfc9 the background
+83b0c7 new background
